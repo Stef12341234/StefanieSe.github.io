@@ -1,0 +1,28 @@
+body{font-family: sans-serif;
+background-color:blanchedalmond;}
+.picture{font-size: 10px;
+color: rgb(80, 74, 74);
+
+}
+h1{font-size: 45px;
+color: rgb(136, 58, 27);}
+h2{color: rgb(172, 113, 2);}
+h3{font-size: 25px;
+color: rgb(172, 113, 2) ;}
+
+button{background-color: rgb(223, 160, 79);
+color: white;
+border: none;
+border-radius: 20px;
+width: 170px;
+height: 40px;
+cursor: pointer;
+}
+button:hover{
+    opacity: 0.8;
+}
+button:active{
+    opacity: 0.5;
+}
+h4{color: rgb(175, 115, 41);}
+h5{color: burlywood;}
